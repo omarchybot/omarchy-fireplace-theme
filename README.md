@@ -1,6 +1,6 @@
 # Fireplace - Theme for Omarchy
 
-Flame reds, ember oranges and warm cream on a near-black brown background, from photos of a fireplace and glowing embers. The palette is extracted from my own photos, which are included as backgrounds.
+Flame reds, ember oranges and warm cream on a near-black brown background, inspired and taken from my fireplace years back and glowing embers. The palette is extracted from my own photos, which are included as backgrounds.
 
 ## Install
 
@@ -15,8 +15,11 @@ Or `SUPER + ALT + SPACE` → Install → Style → Theme → paste the URL.
 ![preview](preview.png)
 
 ## Backgrounds
+Images where the colors were inspired and taken from.
 
+Main image:
 ![](backgrounds/fireplace-flames.jpg)
+Second close-up shot:
 ![](backgrounds/fireplace-embers.jpg)
 
 ## Obsidian
